@@ -10,7 +10,7 @@
 
 ### Steps to import env_1:
 - Run ps cmd: ```conda env create -f env_1.yml```
-- Run ps cmd: ```conda install pytorch torchvision torchaudio cpuonly -c pytorch```
+- Run ps cmd: ```conda activate env_1```
 
 ### User guide:
 - Ensure conda is installed and configured (see my other example repo)
